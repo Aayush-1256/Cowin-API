@@ -3,7 +3,7 @@ A JAVA SWING APPLICATION which get you INFORMATION About VACCINE AND HOSPITALS o
 
 Software UI
 
-https://github.com/Aayush-1256/Cowin-API/blob/main/images/Screenshot%20from%202022-01-13%2014-31-25.png
+![alt text](https://github.com/Aayush-1256/Cowin-API/blob/main/images/Screenshot%20from%202022-01-13%2014-31-25.png)
 
 Have option to search hospitals by PIN or by City
 
